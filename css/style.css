@@ -1,0 +1,42 @@
+table{
+    width: 90%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 7px;
+    overflow: hidden;
+    font-family: Arial,sans-serif;
+    font-size: larger;
+}
+
+thead th, tbody td{
+    border-bottom: 0.01px solid rgba(222, 184, 135, 0.288);
+    padding: 1rem;
+}
+thead th{
+    background-color: #28b463;
+}
+
+tbody td{
+    background-color: #f2f3f47e;
+}
+
+.card{
+    background-color: rgb(42, 42, 241);
+    color: aliceblue;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size: large;
+
+}
+.card1{
+    background-color: rgb(228, 51, 51);
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: large;
+}
